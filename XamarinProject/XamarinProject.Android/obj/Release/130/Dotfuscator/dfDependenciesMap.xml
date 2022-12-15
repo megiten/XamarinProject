@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dependency-mappings>
+  <entry>
+    <new>C:\Users\Lenovo\Desktop\XamarinProject\XamarinProject\XamarinProject.Android\obj\Release\130\Dotfuscator\dfout\XamarinProject.Android.dll</new>
+    <old>C:\Users\Lenovo\Desktop\XamarinProject\XamarinProject\XamarinProject.Android\obj\Release\130\XamarinProject.Android.dll</old>
+  </entry>
+  <entry>
+    <new>C:\Users\Lenovo\Desktop\XamarinProject\XamarinProject\XamarinProject.Android\obj\Release\130\Dotfuscator\dfout\XamarinProject.dll</new>
+    <old>C:\Users\Lenovo\Desktop\XamarinProject\XamarinProject\XamarinProject\bin\Release\netstandard2.0\XamarinProject.dll</old>
+  </entry>
+  <entry>
+    <new>C:\Users\Lenovo\Desktop\XamarinProject\XamarinProject\XamarinProject.Android\obj\Release\130\Dotfuscator\dfout\XamarinProject.Android.pdb</new>
+    <old>C:\Users\Lenovo\Desktop\XamarinProject\XamarinProject\XamarinProject.Android\obj\Release\130\XamarinProject.Android.pdb</old>
+  </entry>
+  <entry>
+    <new>C:\Users\Lenovo\Desktop\XamarinProject\XamarinProject\XamarinProject.Android\obj\Release\130\Dotfuscator\dfout\XamarinProject.pdb</new>
+    <old>C:\Users\Lenovo\Desktop\XamarinProject\XamarinProject\XamarinProject\bin\Release\netstandard2.0\XamarinProject.pdb</old>
+  </entry>
+</dependency-mappings>

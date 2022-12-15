@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Output>
+  <OutputAssemblies>
+    <File>C:\Users\Lenovo\Desktop\XamarinProject\XamarinProject\XamarinProject.Android\obj\Release\130\Dotfuscator\dfout\XamarinProject.Android.dll</File>
+    <File>C:\Users\Lenovo\Desktop\XamarinProject\XamarinProject\XamarinProject.Android\obj\Release\130\Dotfuscator\dfout\XamarinProject.dll</File>
+  </OutputAssemblies>
+  <SatelliteAssemblies />
+  <DebugSymbols>
+    <File>C:\Users\Lenovo\Desktop\XamarinProject\XamarinProject\XamarinProject.Android\obj\Release\130\Dotfuscator\dfout\XamarinProject.Android.pdb</File>
+    <File>C:\Users\Lenovo\Desktop\XamarinProject\XamarinProject\XamarinProject.Android\obj\Release\130\Dotfuscator\dfout\XamarinProject.pdb</File>
+  </DebugSymbols>
+  <MappingFile>C:\Users\Lenovo\Desktop\XamarinProject\XamarinProject\XamarinProject.Android\DotfuscatorReports\Release\AnyCPU\Renaming.xml</MappingFile>
+  <ReportFiles>
+    <File>C:\Users\Lenovo\Desktop\XamarinProject\XamarinProject\XamarinProject.Android\DotfuscatorReports\Release\AnyCPU\Removal.xml</File>
+    <File>C:\Users\Lenovo\Desktop\XamarinProject\XamarinProject\XamarinProject.Android\DotfuscatorReports\Release\AnyCPU\SmartObfuscation.xml</File>
+  </ReportFiles>
+  <MarkupFiles />
+  <OutputAssembliesInternal>
+    <File NewPath="C:\Users\Lenovo\Desktop\XamarinProject\XamarinProject\XamarinProject.Android\obj\Release\130\Dotfuscator\dfout\XamarinProject.Android.dll" OldPath="C:\Users\Lenovo\Desktop\XamarinProject\XamarinProject\XamarinProject.Android\obj\Release\130\XamarinProject.Android.dll" />
+    <File NewPath="C:\Users\Lenovo\Desktop\XamarinProject\XamarinProject\XamarinProject.Android\obj\Release\130\Dotfuscator\dfout\XamarinProject.dll" OldPath="C:\Users\Lenovo\Desktop\XamarinProject\XamarinProject\XamarinProject\bin\Release\netstandard2.0\XamarinProject.dll" />
+  </OutputAssembliesInternal>
+  <Pdbs>
+    <File NewPath="C:\Users\Lenovo\Desktop\XamarinProject\XamarinProject\XamarinProject.Android\obj\Release\130\Dotfuscator\dfout\XamarinProject.Android.pdb" OldPath="C:\Users\Lenovo\Desktop\XamarinProject\XamarinProject\XamarinProject.Android\obj\Release\130\XamarinProject.Android.pdb" />
+    <File NewPath="C:\Users\Lenovo\Desktop\XamarinProject\XamarinProject\XamarinProject.Android\obj\Release\130\Dotfuscator\dfout\XamarinProject.pdb" OldPath="C:\Users\Lenovo\Desktop\XamarinProject\XamarinProject\XamarinProject\bin\Release\netstandard2.0\XamarinProject.pdb" />
+  </Pdbs>
+</Output>
